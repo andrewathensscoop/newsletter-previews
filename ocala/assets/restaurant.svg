@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-label="RESTAURANT SPOTLIGHT">
+<rect width="1200" height="190" fill="#ffffff"/>
+<rect x="36" y="28" width="1128" height="134" rx="0" fill="#25a7df"/>
+<path d="M36 28H1164V66H36Z" fill="#f3a929"/>
+<path d="M36 124H1164V162H36Z" fill="#101827"/>
+<text x="600" y="115" text-anchor="middle" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="58" font-weight="900" fill="#ffffff" letter-spacing="2">RESTAURANT SPOTLIGHT</text>
+</svg>
