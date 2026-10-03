@@ -1,0 +1,251 @@
+date,publication,business_name,category,website,instagram_url,owner_first_name,greeting,final_dm
+2026-10-03,Athens Scoop,Stanfield Air Systems,HVAC,https://stanfieldair.com/about/,https://www.instagram.com/stanfieldairsystems/,Rex,Rex,"Rex, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 HVAC company partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Athens Oconee Audiology GA Hearing Care,audiology,https://athensoconeeaudiology.com/,https://www.instagram.com/athensoconeeaudiology/,Robin,Robin,"Robin, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 audiology practice partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Phil Hughes Honda,auto dealerships,https://www.philhugheshonda.com/,https://www.instagram.com/philhugheshonda/,,Hey,"Hey, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 car dealership partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Classic City Detailing,auto detailing,https://www.classiccitydetailingllc.com/,https://www.instagram.com/classiccitydetailingllc/,Finley,Finley,"Finley, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 auto detailing shop partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Burrow & Associates,bankruptcy law,https://legalatlanta.com/,https://www.instagram.com/burrowassociatesllc/,,Hey,"Hey, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 bankruptcy law firm partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Athens CAR Wash,car washes,https://athenscarwash.shop/,https://www.instagram.com/athensautowash/,,Hey,"Hey, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 car wash partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,First Due Chimney,chimney services,https://www.firstduechimney.com/,https://www.instagram.com/first_due_chimney/,Casey,Casey,"Casey, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 chimney service company partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,tridentmedicalcenters,chiropractic,https://tridentmedicalcenters.com/,https://www.instagram.com/tridentmedicalga/,,Hey,"Hey, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 chiropractic practice partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Oconee Collision,collision repair,https://oconeecollision.com/,https://www.instagram.com/oconeecollision/,,Hey,"Hey, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 auto body shop partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Athens Dental Associates,cosmetic dentistry,https://www.athensdentalassociates.com/,https://www.instagram.com/athensdentalassociates/,Ashley,Ashley,"Ashley, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 cosmetic dental practice partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,French Law Group,estate law,https://www.frenchlawgroup.com/,https://www.instagram.com/frenchlawgroup/,Laura,Laura,"Laura, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 estate planning law firm partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Athens Flooring Depot,flooring,https://www.athensflooringdepot.com/,https://www.instagram.com/athens_flooring_depot/,Alex,Alex,"Alex, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 flooring company partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,McRae Family Dental,general dentistry,https://www.drmcrae.com/,https://www.instagram.com/mcraefamilydental/,,Hey,"Hey, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 dental practice partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Family Pro Window Cleaning,home cleaning,https://familyprowindowcleaning.com/,https://www.instagram.com/familyprowindowcleaning/,Miguel,Miguel,"Miguel, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 home cleaning company partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,The BrickKicker,home inspection,https://www.georgia.brickkicker.com/,https://www.instagram.com/kickinbrickstakinnotes/,Mike,Mike,"Mike, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 home inspection company partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Blinds Athens & Lake Oconee,interior design,https://www.budgetblinds.com/athens/,https://www.instagram.com/budgetblindsathens/,Chad,Chad,"Chad, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 interior design studio partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Royal Landscape & Gardens,landscaping,https://www.royallandscapedesign.com/,https://www.instagram.com/royal_athens/,Hall,Hall,"Hall, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 landscaping company partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Counseling Assoc for Well-Being,mental health practice,https://ca4wellbeing.com/staff/bethany-gosnell-lpc/,https://www.instagram.com/ca4wellbeing/,Suzanne,Suzanne,"Suzanne, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 mental health practice partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,TopDawg Junk Removal,moving services,https://topdawgjunkremoval.com/,https://www.instagram.com/topdawg_junk_removal/,Andrew,Andrew,"Andrew, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 moving company partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,GeorgiaEye,ophthalmology,https://www.georgiaeyeclinic.com/,https://www.instagram.com/georgia_eye/,,Hey,"Hey, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 ophthalmology practice partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Joint-Regeneration,orthopedics,https://joint-regeneration.com/sports-medicine/,https://www.instagram.com/jointregenerationlo/,Patty,Patty,"Patty, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 orthopedic practice partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Roll & Glow,painting,https://www.rollandglowpainting.com/,https://www.instagram.com/rollandglowpainting/,,Hey,"Hey, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 painting company partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Ruppersburg Injury Law,personal injury law,https://hmrattorney.com/,https://www.instagram.com/michaelruppersburg/,,Hey,"Hey, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 personal injury law firm partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Lavender Pest Control,pest control,https://lavenderpestcontrol.com/,https://www.instagram.com/lavenderpestcontrol/,,Hey,"Hey, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 pest control company partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Maria Carrelli PT DPT DN-Cert SlowTwitch BikeFit Cert,physical therapy,https://www.mariaclarapt.com/,https://www.instagram.com/physiofitdpt/,,Hey,"Hey, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 physical therapy practice partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,SLAM Athens,plumbing,https://www.slammechanical.com/,https://www.instagram.com/slamplumbing_athens/,,Hey,"Hey, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 plumbing company partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Cure Podiatry & Wound Care,podiatry,https://www.curepodiatry.com/,https://www.instagram.com/curepodiatry/,Sahar,Sahar,"Sahar, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 podiatry practice partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Aletheia Health & Wellness,primary care,https://aletheiahw.com/,https://www.instagram.com/aletheiahw/,,Hey,"Hey, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 primary care practice partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Merry Mac Builders,remodeling,https://www.merrymacbuilders.com/,https://www.instagram.com/merrymacbuilders/,,Hey,"Hey, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 remodeling company partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Ascend Roofing & Contracting,roofing,https://ascendroofinginc.com/roof-repair-projects/,https://www.instagram.com/ascendroofing/,Robert,Robert,"Robert, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 roofing company partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Classic City Kitty,vets,https://classiccitykitty.com/,https://www.instagram.com/classiccitykittyathens/,Autumn,Autumn,"Autumn, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 veterinary practice partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Hansford McDaniel,workers compensation law,https://www.hansfordlawfirm.com/athens/,https://www.instagram.com/hansford_mcdaniel_law_firm/,Wes,Wes,"Wes, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 workers compensation law firm partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,American Comfort,HVAC,https://www.americancomfortac.com/,https://www.instagram.com/americancomfortga/,,Hey,"Hey, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 HVAC company partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Purus Detailing,auto detailing,https://www.purusdetailing.com/,https://www.instagram.com/purusdetail/,,Hey,"Hey, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 auto detailing shop partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Valor Chiropractic & Wellness,chiropractic,https://valorchiropractic.com/check-out-our-office/,https://www.instagram.com/valorchiro/,,Hey,"Hey, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 chiropractic practice partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Dr. Lane Barker,general dentistry,https://www.magnoliadentalofathens.com/,https://www.instagram.com/magnoliadentalspa/,Lane,Lane,"Lane, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 dental practice partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Kimmel Design,interior design,https://kathrynkimmel.com/,https://www.instagram.com/kimmeldesign/,,Hey,"Hey, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 interior design studio partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Elite Turf Lawn Care,landscaping,https://elite-turf.com/,https://www.instagram.com/eliteturf_lawncare/,Brandon,Brandon,"Brandon, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 landscaping company partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Breaking the Cycle Psychotherapy,mental health practice,https://www.btcpsychotherapy.com/,https://www.instagram.com/breakingthecycle.psychotherapy/,Yessica,Yessica,"Yessica, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 mental health practice partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,AAA Sanitation,moving services,https://aaasanitationco.com/,https://www.instagram.com/aaasanitationco/,Matt,Matt,"Matt, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 moving company partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,770Goodlaw,personal injury law,https://770goodlaw.com/,https://www.instagram.com/770goodlaw/,Alex,Alex,"Alex, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 personal injury law firm partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Prell Integrative Physical Therapy,physical therapy,https://prellpt.com/,https://www.instagram.com/prellpt/,Brian,Brian,"Brian, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 physical therapy practice partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Direct Primary Care u2022Bladder&Pelvic care u2022Women 's wellness,primary care,https://pioneercommunitycare.com/,https://www.instagram.com/pioneercommunitycare/,,Hey,"Hey, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 primary care practice partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Perimeter Roofing,roofing,https://perimeterroofing.com/service-areas/georgia/athens/,https://www.instagram.com/perimeterroofingllc/,,Hey,"Hey, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 roofing company partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Clockwork Heating & Air Conditioning,HVAC,https://www.clockwork-air.com/,https://www.instagram.com/clockworkair/,,Hey,"Hey, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 HVAC company partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Bella Dentistry & Esthetics,general dentistry,https://www.belladentistry.com/,https://www.instagram.com/belladentistry_esthetics/,,Hey,"Hey, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 dental practice partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Stillwell Group Mental Health Care for Young Adults,mental health practice,https://stillwellathens.com/,https://www.instagram.com/stillwellathens/,Danielle,Danielle,"Danielle, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 mental health practice partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Lazenby Law Group,personal injury law,https://lazlawgroup.com/jefferson-personal-injury/,https://www.instagram.com/lazenbylaw/,,Hey,"Hey, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 personal injury law firm partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Restor Diabetes Center,primary care,https://www.restordiabetescenter.com/,https://www.instagram.com/restordiabetescenter/,,Hey,"Hey, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 primary care practice partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
+2026-10-03,Athens Scoop,Big League Roofing,roofing,https://www.bigleagueroofs.com/,https://www.instagram.com/bigleagueroofs/,Tyler,Tyler,"Tyler, was looking at your website and profile and feel like I’ve seen y'all around town
+
+We’re looking for 1 roofing company partner for Athens Scoop and you might be a nice fit
+
+Down for me to send you info here?"
